@@ -1,7 +1,7 @@
 # game-class-project
 The Python code for the group project I completed as the final project for my college class, CS 102, "Multimedia Computing". A point-and-click RPG using PyGame Zero.
 
-HOW TO USE: Unzip the attached "Game" zip file. Open the python "game.py" file in an IDE with Pygame Zero's "pgzero" package installed. Run the file, and a new window will be opened for the game to run on.
+HOW TO USE: Unzip the attached "Game" zip file. Ensure that the "images" and "sounds" folder are in the same place as the game.py file. Open the python "game.py" file in an IDE with Pygame Zero's "pgzero" package installed. Run the file, and a new window will be opened for the game to run on.
 
 HOW TO PLAY: Press enter to progress through text boxes. Click on the screen to move or interact with objects.
 
